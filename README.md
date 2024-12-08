@@ -1,7 +1,7 @@
 # PassGuard Application
 
 ## Overview
-**AutoPass** is a simple GUI application developed using Python and Tkinter, designed to manage and retrieve website credentials. It allows users to add and look up details such as website name, URL, login ID, password, pin, and email. The data is stored in a MySQL database.
+**PassGuard** is a simple GUI application developed using Python and Tkinter, designed to manage and retrieve website credentials. It allows users to add and look up details such as website name, URL, login ID, password, pin, and email. The data is stored in a MySQL database.
 
 ## Requirements
 - Python 3.x

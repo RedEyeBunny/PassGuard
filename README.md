@@ -1,4 +1,4 @@
-# **Password Manager**
+# **PassGuard**
 
 A secure, user-friendly, and efficient password management tool that stores and organizes your credentials locally on your machine, prioritizing privacy and security.
 
@@ -10,7 +10,6 @@ A secure, user-friendly, and efficient password management tool that stores and 
 - **Strong Password Generator**: Generate complex and secure passwords tailored to your needs.
 - **User-Friendly Interface**: Intuitive and easy-to-navigate interface for managing credentials.
 - **Search Functionality**: Quickly search for stored credentials by account name or category.
-- **Categorization**: Organize passwords by categories such as work, personal, social media, etc.
 - **Multi-Platform Support**: Works seamlessly on Windows, macOS, and Linux.
 
 ---
